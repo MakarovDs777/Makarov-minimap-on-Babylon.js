@@ -6,3 +6,4 @@
 
 Отлично но мне нужно что-бы карта передвигалась плавно вместо с игроком.
 
+[Makarov minimap (Version 1 - Minimap with card disclosure) | Babylon.js Playground](https://playground.babylonjs.com/#KISDUE)
