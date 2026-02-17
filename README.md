@@ -8,4 +8,4 @@
 
 Теперь нужно сделать минкарту с раскрытие карты как в GTA.
 
-[Makarov minimap (Version 1 - Minimap with card disclosure) | Babylon.js Playground](https://playground.babylonjs.com/#KISDUE)
+[Makarov minimap (Version 1 - Minimap with card disclosure) | Babylon.js Playground](https://playground.babylonjs.com/#KISDUE#1)
